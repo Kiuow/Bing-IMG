@@ -40,5 +40,6 @@
 > http://Location/api/?info=true
 
 ## 部署
-> 准备好了吗？点击 Deploy 立即部署  
+准备好了吗？点击 Deploy 立即部署  
+
 <a href="https://vercel.com/new/project?template=https://github.com/simpfun/Bing-IMG/main"><img src="https://vercel.com/button"></a>
