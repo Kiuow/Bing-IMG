@@ -1,3 +1,4 @@
+error_reporting(0);
 <?php
 date_default_timezone_set('Asia/Shanghai');
 //判断是否随机调用
