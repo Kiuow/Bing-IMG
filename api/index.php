@@ -1,5 +1,5 @@
-error_reporting(0);
 <?php
+error_reporting(0);
 date_default_timezone_set('Asia/Shanghai');
 //判断是否随机调用
 if ($_GET['rand']==='true') {
